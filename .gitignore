@@ -1,0 +1,13 @@
+# Ignore dependencies
+/node_modules/
+
+# Ignore build output
+/dist/
+/.angular/
+
+# Ignore IDE/editor-specific settings
+.vscode/
+.idea/
+
+# Ignore logs
+/logs/
